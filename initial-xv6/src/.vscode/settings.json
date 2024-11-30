@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "syscall.h": "c",
+        "param.h": "c",
+        "memory": "c",
+        "semaphore": "c",
+        "stop_token": "c",
+        "mutex": "c",
+        "spinlock.h": "c"
+    }
+}
